@@ -9,7 +9,7 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
   <img src="https://user-images.githubusercontent.com/89855894/152078545-409ecfed-6b2b-4fd0-b453-8d43c33b97bc.png" />
 </p>
 
-** Technical Requirement/Specifications: **
+**Technical Requirement/Specifications:**
 
 The system/application is broken into four distinct sections: Breadboarding and Setup, Using the ADC, ISR versus Manual Delays, C versus Assembler each with their own specifications:
 1. Breadboarding and Setup: The ATMEGA328P is breadboarded and connected to the SNAP programmer. There are also additional connections like a potentiometer connected to ADC 5 and 8 LEDs, 4 of which are connected to the lower pins of PortB and 4 are connected to the upper pins of PortD. The chip can run the program without being connected to the SNAP programmer so all it needs to run is a connection to power over USB. There are also two other LEDs setup to blink in response to a manual delay function and an interrupt service routine using delay constants based on the value of the potentiometer.
@@ -21,21 +21,22 @@ The system/application is broken into four distinct sections: Breadboarding and 
 </p>
 
 
-** Components List: **
+**Components List:**
 
 In terms of the hardware used for this project the some of the parts were used for to breadboard the microprocessor and others were needed for my program these include:
 
 •	ATMEGA328P: 8-bit microprocessor used to run the program; the parts associated with breadboarding the microprocessor include:
 
-_ o	Breadboard: Used to put together all the parts for the microprocessor.
+  o	Breadboard: Used to put together all the parts for the microprocessor.
 
-o	16 MHz Crystal: Used as a clock for the microprocessor keeping time to prevent processes from jumping ahead or lagging.
+  o	16 MHz Crystal: Used as a clock for the microprocessor keeping time to prevent processes from jumping ahead or lagging.
 
-o	2x 39pF Load Capacitor: Used to ground the crystal.
+  o	2x 39pF Load Capacitor: Used to ground the crystal.
 
-o	Button: Used to ground pin 1 of the microprocessor to reset it.
+  o	Button: Used to ground pin 1 of the microprocessor to reset it.
 
-o	Voltage Regulator: Used to provide power (5V) to circuit using USB. _
+  o	Voltage Regulator: Used to provide power (5V) to circuit using USB. 
+  
 
 •	SNAP Programmer: Used as a debugger/programmer to upload programs from MPLABX to ATMEGA328.
 
@@ -51,10 +52,10 @@ o	Voltage Regulator: Used to provide power (5V) to circuit using USB. _
   <img src="https://user-images.githubusercontent.com/89855894/152078795-f6a04385-58cb-4487-ba04-586f83ba5a35.png" />
 </p>
 
-** Conclusion: **
+**Conclusion:**
 
 Overall, my goal was to develop a project that uses the ADC on the ATMEGA328P in unison with timers and a ISR routine to test the performance of mixing C and assembler. This project gave me a chance to apply and expand the my knowledge on the AVR architecture.I have plans to expand my project use the analog to digital converter, timers and interrupt service routines using the MIPS architecture.
 
-** Video Link: **  https://youtu.be/f8g5cmFL4UA  
+**Video Link:**  [Link to Google](https://youtu.be/f8g5cmFL4UA)
 
 
