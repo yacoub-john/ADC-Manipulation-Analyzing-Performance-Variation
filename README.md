@@ -25,9 +25,7 @@ The system/application is broken into four distinct sections: Breadboarding and 
   <img src="https://user-images.githubusercontent.com/89855894/152082533-2ce51a99-6b35-4701-9ebf-c247b9983725.png" />
 </p>
 
-<p align="center"><b> Figure 2: ATMEGA328 ADC Configuration
-Source: Maxembedded
- </b></p>
+<p align="center"><b> Figure 2: ATMEGA328 ADC Configuration </b></p>
 
 **Components List:**
 
@@ -57,8 +55,11 @@ In terms of the hardware used for this project the some of the parts were used f
 *	Blue 3mm LED: Blinks at the frequency of a timer, turned on and off by an interrupt service routine
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89855894/152078795-f6a04385-58cb-4487-ba04-586f83ba5a35.png" />
+  <img src="https://user-images.githubusercontent.com/89855894/152082906-2a943fc0-a167-4444-ad06-2a83a6ff01c4.png" />
 </p>
+
+<p align="center"><b> Figure 3: Fritzing Breadboard Setup </b></p>
+
 
 **Conclusion:**
 
