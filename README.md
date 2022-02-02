@@ -55,7 +55,7 @@ In terms of the hardware used for this project the some of the parts were used f
 *	Blue 3mm LED: Blinks at the frequency of a timer, turned on and off by an interrupt service routine
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89855894/152082906-2a943fc0-a167-4444-ad06-2a83a6ff01c4.png" />
+  <img src="https://user-images.githubusercontent.com/89855894/152083078-88a2d1dd-e894-4d34-b058-8bde5f8fb9a8.png" />
 </p>
 
 <p align="center"><b> Figure 3: Fritzing Breadboard Setup </b></p>
