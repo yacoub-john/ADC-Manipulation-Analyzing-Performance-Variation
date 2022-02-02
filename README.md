@@ -9,10 +9,9 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
   <img src="https://user-images.githubusercontent.com/89855894/152081675-e7eb40f5-6413-412e-beac-ead5a1b7dfa8.png" />
  </p>
  
-<h1 style="border:2px solid Tomato;"><p align="center"><b> Figure 1: Breadboard Setup </b></p></h1>
+<p align="center"><b> Figure 1: Breadboard Setup </b></p>
 
   
-
 
 **Technical Requirement/Specifications:**
 
@@ -26,7 +25,9 @@ The system/application is broken into four distinct sections: Breadboarding and 
   <img src="https://user-images.githubusercontent.com/89855894/152082533-2ce51a99-6b35-4701-9ebf-c247b9983725.png" />
 </p>
 
-
+<p align="center"><b> Figure 2: ATMEGA328 ADC Configuration
+Source: Maxembedded
+ </b></p>
 
 **Components List:**
 
