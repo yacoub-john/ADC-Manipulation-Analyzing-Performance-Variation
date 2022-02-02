@@ -28,15 +28,15 @@ In terms of the hardware used for this project the some of the parts were used f
 
 *	ATMEGA328P: 8-bit microprocessor used to run the program; the parts associated with breadboarding the microprocessor include:
 
-  *	Breadboard: Used to put together all the parts for the microprocessor.
+    *	Breadboard: Used to put together all the parts for the microprocessor.
 
-  *	16 MHz Crystal: Used as a clock for the microprocessor keeping time to prevent processes from jumping ahead or lagging.
+    *	16 MHz Crystal: Used as a clock for the microprocessor keeping time to prevent processes from jumping ahead or lagging.
 
-  *	2x 39pF Load Capacitor: Used to ground the crystal.
+    *	2x 39pF Load Capacitor: Used to ground the crystal.
 
-  *	Button: Used to ground pin 1 of the microprocessor to reset it.
+    *	Button: Used to ground pin 1 of the microprocessor to reset it.
 
-  *	Voltage Regulator: Used to provide power (5V) to circuit using USB. 
+    *	Voltage Regulator: Used to provide power (5V) to circuit using USB. 
   
 
 *	SNAP Programmer: Used as a debugger/programmer to upload programs from MPLABX to ATMEGA328.
@@ -57,6 +57,6 @@ In terms of the hardware used for this project the some of the parts were used f
 
 Overall, my goal was to develop a project that uses the ADC on the ATMEGA328P in unison with timers and a ISR routine to test the performance of mixing C and assembler. This project gave me a chance to apply and expand the my knowledge on the AVR architecture.I have plans to expand my project use the analog to digital converter, timers and interrupt service routines using the MIPS architecture.
 
-**Video Link:** [URL](https://youtu.be/f8g5cmFL4UA)
+[**Video Link:**](https://youtu.be/f8g5cmFL4UA)
 
 
