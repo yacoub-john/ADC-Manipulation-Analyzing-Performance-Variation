@@ -60,6 +60,16 @@ In terms of the hardware used for this project the some of the parts were used f
 
 <p align="center"><b> Figure 3: Fritzing Breadboard Setup </b></p>
 
+**Testing:**
+
+In terms of checking the disassembled code I disassembled sections of my code in both compiler explorer and MPLABX as a method of checking the disassembly process in compiler explorer and selecting the correct compiler (AVR gcc vs Arduino Uno.) The disassembled code for my delay function can be seen in Figure 4 where it is disassembled using compiler explorer and MPLABX. 
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/89855894/152083233-98de7d08-f3d7-4577-a671-dd412a520d60.png" />
+</p>
+
+<p align="center"><b> Figure 4: Disassembly of delay function  </b></p>
 
 **Conclusion:**
 
