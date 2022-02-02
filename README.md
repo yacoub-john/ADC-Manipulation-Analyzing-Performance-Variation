@@ -7,7 +7,7 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
 </p>
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/89855894/152078795-f6a04385-58cb-4487-ba04-586f83ba5a35.png)" />
+  <img src="https://user-images.githubusercontent.com/89855894/152078795-f6a04385-58cb-4487-ba04-586f83ba5a35.png" />
 </p>
 
 
