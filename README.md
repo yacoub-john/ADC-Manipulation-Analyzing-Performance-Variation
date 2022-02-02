@@ -7,7 +7,12 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89855894/152081675-e7eb40f5-6413-412e-beac-ead5a1b7dfa8.png" />
-  < **Figure 1: Breadboard Setup** />
+  <body>
+    
+    **Figure 1: Breadboard Setup**
+      
+    <body />
+  **Figure 1: Breadboard Setup** 
 </p>
 
 
@@ -58,6 +63,5 @@ In terms of the hardware used for this project the some of the parts were used f
 
 Overall, my goal was to develop a project that uses the ADC on the ATMEGA328P in unison with timers and a ISR routine to test the performance of mixing C and assembler. This project gave me a chance to apply and expand the my knowledge on the AVR architecture.I have plans to expand my project use the analog to digital converter, timers and interrupt service routines using the MIPS architecture.
 
-[**Video Link: https://youtu.be/f8g5cmFL4UA**](https://youtu.be/f8g5cmFL4UA)
 
 
