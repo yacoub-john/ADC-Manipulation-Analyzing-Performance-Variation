@@ -69,7 +69,7 @@ In terms of checking the disassembled code I disassembled sections of my code in
   <img src="https://user-images.githubusercontent.com/89855894/152083233-98de7d08-f3d7-4577-a671-dd412a520d60.png" />
 </p>
 
-<p align="center"><b> Figure 4: Disassembly of delay function  </b></p>
+<p align="center"><b> Figure 4: Disassembly of Delay Function  </b></p>
 
 **Conclusion:**
 
