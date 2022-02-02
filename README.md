@@ -8,10 +8,9 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89855894/152081675-e7eb40f5-6413-412e-beac-ead5a1b7dfa8.png" />
  
-  <br> **Figure 1: Breadboard Setup** 
+  <br> <p align="center"> **Figure 1: Breadboard Setup** </p>
+  
 </p>
-
-
 
 **Technical Requirement/Specifications:**
 
