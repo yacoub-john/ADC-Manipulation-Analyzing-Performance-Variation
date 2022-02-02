@@ -26,28 +26,28 @@ The system/application is broken into four distinct sections: Breadboarding and 
 
 In terms of the hardware used for this project the some of the parts were used for to breadboard the microprocessor and others were needed for my program these include:
 
-•	ATMEGA328P: 8-bit microprocessor used to run the program; the parts associated with breadboarding the microprocessor include:
+*	ATMEGA328P: 8-bit microprocessor used to run the program; the parts associated with breadboarding the microprocessor include:
 
-  o	Breadboard: Used to put together all the parts for the microprocessor.
+  *	Breadboard: Used to put together all the parts for the microprocessor.
 
-  o	16 MHz Crystal: Used as a clock for the microprocessor keeping time to prevent processes from jumping ahead or lagging.
+  *	16 MHz Crystal: Used as a clock for the microprocessor keeping time to prevent processes from jumping ahead or lagging.
 
-  o	2x 39pF Load Capacitor: Used to ground the crystal.
+  *	2x 39pF Load Capacitor: Used to ground the crystal.
 
-  o	Button: Used to ground pin 1 of the microprocessor to reset it.
+  *	Button: Used to ground pin 1 of the microprocessor to reset it.
 
-  o	Voltage Regulator: Used to provide power (5V) to circuit using USB. 
+  *	Voltage Regulator: Used to provide power (5V) to circuit using USB. 
   
 
-•	SNAP Programmer: Used as a debugger/programmer to upload programs from MPLABX to ATMEGA328.
+*	SNAP Programmer: Used as a debugger/programmer to upload programs from MPLABX to ATMEGA328.
 
-•	8x Blue 3mm LED: Used to show the 8-bit value of the potentiometer where each LED represents a bit.
+*	8x Blue 3mm LED: Used to show the 8-bit value of the potentiometer where each LED represents a bit.
 
-•	Potentiometer: Analog source used to control the frequency of an LED using a manual delay.
+*	Potentiometer: Analog source used to control the frequency of an LED using a manual delay.
 
-•	Red 3mm LED: Blinks at the frequency of a manual delay based on the value of the potentiometer.
+*	Red 3mm LED: Blinks at the frequency of a manual delay based on the value of the potentiometer.
 
-•	Blue 3mm LED: Blinks at the frequency of a timer, turned on and off by an interrupt service routine
+*	Blue 3mm LED: Blinks at the frequency of a timer, turned on and off by an interrupt service routine
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89855894/152078795-f6a04385-58cb-4487-ba04-586f83ba5a35.png" />
@@ -57,6 +57,6 @@ In terms of the hardware used for this project the some of the parts were used f
 
 Overall, my goal was to develop a project that uses the ADC on the ATMEGA328P in unison with timers and a ISR routine to test the performance of mixing C and assembler. This project gave me a chance to apply and expand the my knowledge on the AVR architecture.I have plans to expand my project use the analog to digital converter, timers and interrupt service routines using the MIPS architecture.
 
-**Video Link:** [](https://youtu.be/f8g5cmFL4UA)
+**Video Link:** [URL](https://youtu.be/f8g5cmFL4UA)
 
 
