@@ -21,8 +21,10 @@ The system/application is broken into four distinct sections: Breadboarding and 
 2. Using the ADC: In the program the ADC is set to receive analog signals from the potentiometer (ADC pin 5) and converts to a digital signal. When there is a physical change to the potentiometer it senses that change and converts it into an equivalent analog electrical signal. This analog signal is converted into a digital signal using the analog to digital converter (on ATMEGA328P) and the signal is then fed to the microprocessor and processes it accordingly. The processed signal has a 10-bit resolution implying that there is 2^10 = 1024 possible values. The board uses 5V as reference and so any analog value in between 0 and 5V is converted into its equivalent ADC value as shown below. The 0-5V range is divided into 2^10 = 1024 steps which is then used a value of 10-bit integer. The program itself also sets up reference voltage AVCC, the ADC clock pre-scaler and enables the ADC in free running mode where the ADC is triggered automatically at every rising edge of clock pulse.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/89855894/152079279-a56b77f6-1476-4471-88c3-3434f2a4749c.png" />
+  <img src="https://user-images.githubusercontent.com/89855894/152082508-dd325519-bf9f-44c1-88de-2b6de94edecc.png" />
+  <img src="https://user-images.githubusercontent.com/89855894/152082533-2ce51a99-6b35-4701-9ebf-c247b9983725.png" />
 </p>
+
 
 
 **Components List:**
