@@ -5,5 +5,9 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
 <p align="center">
   <img src="https://user-images.githubusercontent.com/89855894/152078545-409ecfed-6b2b-4fd0-b453-8d43c33b97bc.png" />
 </p>
- ![image](https://user-images.githubusercontent.com/89855894/152078327-ba49fc23-b199-4e2c-822f-9fabb778ad44.png)
- _**Fritzing Breadboard Setup**_
+
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/89855894/152078795-f6a04385-58cb-4487-ba04-586f83ba5a35.png)" />
+</p>
+
+
