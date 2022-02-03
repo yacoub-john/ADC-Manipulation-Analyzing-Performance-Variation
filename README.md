@@ -1,4 +1,4 @@
-# ADC & ISR-Manipulation Analyzing Performance Variation in Mixed C and Assembler Routines
+# ADC & ISR Manipulations Analyzing Performance Variation in Mixed C and Assembler Routines
 
 
 **Project Description:**
