@@ -26,6 +26,7 @@ The system/application is broken into four distinct sections: Breadboarding and 
 </p>
 
 <p align="center"><b> Figure 2: ATMEGA328 ADC Configuration </b></p>
+<br />
 
 **Components List:**
 
@@ -59,6 +60,7 @@ In terms of the hardware used for this project the some of the parts were used f
 </p>
 
 <p align="center"><b> Figure 3: Fritzing Breadboard Setup </b></p>
+<br />
 
 **Testing:**
 
@@ -70,6 +72,7 @@ In terms of checking the disassembled code I disassembled sections of my code in
 </p>
 
 <p align="center"><b> Figure 4: Disassembly of Delay Function  </b></p>
+<br />
 
 **Conclusion:**
 
