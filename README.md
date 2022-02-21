@@ -11,7 +11,7 @@ This project used a breadboarded 8-bit ATMEGA328P microprocessor and was develop
  
 <p align="center"><b> Figure 1: Breadboard Setup </b></p>
 
-  
+<br />
 
 **Technical Requirement/Specifications:**
 
